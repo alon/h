@@ -34,6 +34,7 @@
           annotating these instructions).</li>
         <li>Use this bookmarklet to annotate any page on the Web:
           <metal:main use-macro="load: bookmarklet.pt" /></li>
+        <li><a rel="reply-to" href="mailto:list@0.0.0.0">send comments</a></li>
       </ol>
     </div>
   </body>
